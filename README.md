@@ -30,9 +30,11 @@ Check out our [contributing guidelines](https://github.com/intermine/bluegenes/b
 
 ### Setting up a local development environment
 
+[Building instructions (for both Dev and Production builds)](docs/building.md).
+
 [Configuring a local build](docs/configuring.md)
 
-[Building instructions (for both Dev and Production builds)](docs/building.md).
+[Development resources](docs/developing.md)
 
 
 ## Need further help?
